@@ -1,0 +1,192 @@
+*{
+    font-family:sans-serif;
+}
+.main{
+    display: flex; 
+    justify-content: flex-end; 
+   color: white;
+   margin-top: 10px;
+   margin-right: 240px;
+}
+
+.nav{
+    font-size: 1.1rem;
+   padding: 15px;
+}
+
+.nav:hover{
+    cursor: pointer;
+}
+
+.home{
+    position: relative;
+    width: 100%;
+   
+}
+
+.rel{
+    top: 0;
+    position: absolute;
+    width: 100%;
+   
+}
+
+.middle{
+    height: 60px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+   
+}
+
+.mid_text{
+   color: white;
+   line-height: 0;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+}
+
+.spacing{
+    margin-top: 220px;
+   
+  
+}
+
+.hi{
+  line-height: 70px;
+}
+
+.second{
+    text-align: center;
+}
+
+.third{
+    line-height: 10px;
+    font-size: 1.3rem;
+    color: gray;
+}
+
+.india{
+    height:30px;
+}
+
+
+/* third section */
+
+
+.individual{
+    
+    width: 250px;
+    border-radius: 0.5rem;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 100px;
+    font-size: 1.5rem;
+    color: rgb(62, 55, 55);
+border: 1px solid rgb(192, 181, 181);
+}
+
+.columnbot{
+    margin-left: 25px;
+    margin-right: 25px;
+    display: flex;
+   justify-content: space-evenly;
+}
+ 
+
+.individual:hover{
+    cursor: pointer;
+    box-shadow: 10rem;
+}
+.symbol{
+    font-size: 1rem;
+    padding-right: 0;
+    margin-right: 0;
+   float: right;
+}
+
+.footer{
+  
+        background-color: rgb(237, 237, 237);
+}
+.foot1{
+    display: flex;
+        background-color: rgb(237, 237, 237);
+}
+
+.foot_logo{
+    margin-left: 150px;
+    margin-top: 60px;
+}
+.right1{
+    margin-top: 60px;
+    margin-left: 800px;
+    display: flex;
+}
+
+.countries{
+ padding-left: 40px;
+}
+
+.lang{
+ padding-left: 40px;
+}
+
+.lefty{
+     margin-left: 80px; 
+    float: left;
+        background-color: rgb(237, 237, 237);
+ 
+}
+
+.left_first{
+    margin-left: 150px;
+}
+
+.right_first{
+    margin-left: 50px;
+
+}
+
+
+.foot2{
+    display: flex;
+    width: 100%;
+    background-color: rgb(237, 237, 237);
+}
+
+
+.learn{
+    float: right;
+}
+
+.social{
+    float: right;
+    margin-left: 50px;
+}
+
+.right2{
+    margin-left: 670px;
+}
+
+.colortext{
+    font-size: 0.9rem;
+    cursor: pointer;
+    color: rgb(116, 114, 114);
+}
+
+.images{
+    cursor: pointer;
+    display: flex;
+    justify-content: space-evenly;
+    width: 20px;
+    height: 20px;
+}
+
+.bottom{
+    font-size: 0.9rem;
+     color: rgb(116, 114, 114);
+    margin-left: 150px;
+    margin-right: 150px;
+}
